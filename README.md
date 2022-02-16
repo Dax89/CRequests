@@ -1,7 +1,6 @@
 # CRequests
 
-CRequests is a simple synchronous CURL based HTTP Client.
-This library is inspired by the famous Python [requests](https://docs.python-requests.org/en/latest/) module.
+CRequests is a simple synchronous CURL based HTTP Client, this library is inspired by the famous Python [requests](https://docs.python-requests.org/en/latest/) module.
 
 # Usage
 ```cpp
