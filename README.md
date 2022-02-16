@@ -17,6 +17,8 @@ int main() {
      std::cout << "OK, response is: " << response.text() << std::endl;
    else
      std::cout << "ERROR, status code: " << response.statusCode() << std::endl;
+     
+   return 0;
 }
 ```
 
