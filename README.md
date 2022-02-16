@@ -5,7 +5,7 @@ CRequests is a simple synchronous CURL based HTTP Client, this library is inspir
 # Usage
 ```cpp
 #include <iostream>
-#include <crequests/crequests>
+#include <crequests/crequests.h>
 
 int main() {
     auto response = CRequests::post("https://example.com/todo", {
